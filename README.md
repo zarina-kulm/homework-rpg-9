@@ -74,3 +74,12 @@ See `QUICKSTART.md` for IDE setup and detailed instructions.
 | `homework-rpg-9` | Visitor + Memento | Chronomancer's Vault |
 
 The series keeps mixing pattern pairs, but each assignment still asks you to implement the patterns independently and demonstrate them clearly in `Main.java`.
+
+### Visitor
+![Visitor](Diagrams/VisitorPattern.png)
+
+### Memento
+![Memento](Diagrams/MementoPattern.png)
+
+## Ссылка на код
+https://github.com/zarina-kulm/homework-rpg-9
