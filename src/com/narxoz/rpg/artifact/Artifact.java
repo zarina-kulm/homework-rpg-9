@@ -1,5 +1,4 @@
 package com.narxoz.rpg.artifact;
-
 public abstract class Artifact {
 
     private final String name;
